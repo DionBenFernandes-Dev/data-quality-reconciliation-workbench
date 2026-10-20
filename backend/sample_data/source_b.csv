@@ -1,0 +1,11 @@
+account_id,customer_name,email,balance,status,last_updated
+ACC-1001,Amelia Clarke,amelia@example.test,10250.00,Active,2026-10-01
+ACC-1002,Rohan Mehta,rohan@example.test,875.00,Active,2026-10-02
+ACC-1003,Leah Carter,leah@example.test,2230.00,Inactive,2026-10-03
+ACC-1004,Samir Shah,samir@example.test,945.00,Active,2026-10-04
+ACC-1006,Omar Khan,omar@example.test,735.00,Active,2026-10-06
+ACC-1007,Ethan Brooks,ETHAN@example.test,1840.00,Active,2026-10-07
+ACC-1008,Isabel Thomas,isabel@example.test,460.00,,2026-10-08
+ACC-1009,Maya Singh,maya@example.test,415.00,Active,2026-10-09
+ACC-101I,Lucas Martin,lucas@example.test,910.00,Active,2026-10-11
+ACC-1010,Aria Wilson,aria@example.test,12600.00,Active,2026-10-10
